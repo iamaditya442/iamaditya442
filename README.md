@@ -1,8 +1,11 @@
 💫 About Me:
 
-🔭 I’m currently learning **MERN STACK DEVELOPMENT and JAVA PROGRAMMING.**                                                                                                                   
+🔭 I’m currently learning **MERN STACK DEVELOPMENT and JAVA PROGRAMMING.**     
+
 🤝 My personal portfolio **https://www.exgaditya.me/**
+
 💬 Ask me about **REACT, HTML, CSS, JAVASCRIPT, EXPRESS, NODE,JS, MongoDB, CORE JAVA, FIGMA**
+
 📫Reach me **exgadityaverma@gmail.com**
 
 🌐 Socials:
