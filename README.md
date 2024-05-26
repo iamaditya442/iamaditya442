@@ -1,16 +1,20 @@
-## Hi there 👋
+💫 About Me:
+🔭 I’m currently learning **MERN STACK DEVELOPMENT and JAVA PROGRAMMING.**
+🤝 My personal portfolio **https://www.exgaditya.me/**
+💬 Ask me about **REACT, HTML, CSS, JAVASCRIPT, EXPRESS, NODE,JS, MongoDB, CORE JAVA, FIGMA**
+📫Reach me **exgadityaverma@gmail.com**
 
-<!--
-**iamaditya442/iamaditya442** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Socials:
+LinkedIn
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+C++ Java JavaScript Bootstrap Express.js NodeJS React MongoDB Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=iamaditya442 &theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=iamaditya442 &theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamaditya442 &theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+![](https://visitcount.itsvg.in/api?id=iamaditya442 &icon=0&color=0)
